@@ -40,7 +40,6 @@ The dataset used for this analysis is stored in a CSV file named `diwali_sales_d
 ## Files Included
 - **diwali_sales_data.csv**: Raw dataset used for analysis
 - **diwali_sales_analysis.ipynb**: Jupyter Notebook containing the Python code for the analysis
-- *Include any other relevant files or resources*
 
 ## Usage
 To reproduce the analysis:
